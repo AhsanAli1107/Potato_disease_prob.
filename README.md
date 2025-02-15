@@ -1,1 +1,0 @@
-# Potato_disease_prob.
